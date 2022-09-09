@@ -64,7 +64,7 @@ var _zxcvbnSettings = {"src":"https:\/\/mern0.github.io\/anshuman\/wp-includes\/
 <script src="https://mern0.github.io/anshuman/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3" id="wp-hooks-js"></script>
 <script src="https://mern0.github.io/anshuman/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
+wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script id="password-strength-meter-js-extra">
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
